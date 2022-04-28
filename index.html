@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Red magic ball</title>
+</head>
+<body>
+  
+  <div class="container">
+    <!-- inputs, id names are a bit strane, I know but i have worked with simple names :) //ccc and ddd -->
+  <input type="text" id="ddd" placeholder="Name" style="margin-bottom:15px" maxlength="10"> <br>
+  <input type="text" id="ccc" placeholder="Question" style="margin-bottom:15px; margin-right: 10px;" maxlength="30">
+<!-- button  styling is simple, no bootstrap here for now -->
+<button onclick="myFunction()" style="background-color: #4CAF50; border: none;
+color: white;
+padding: 7px 22px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 14px;
+cursor: pointer;">Click</button>
+
+<br>
+<!-- text that will be placed (name and question) -->
+<p id="text1"></p>
+
+<!-- ball - I have used serbian and english words -->
+<div class="lopta">
+<p id="number">Ask and you shall know</p>
+<!-- our answer -->
+<p id="answer"></p>
+</div>
+</div>
+    
+ <script src="script.js"></script>
+</body>
+</html>
