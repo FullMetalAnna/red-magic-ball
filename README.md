@@ -1,4 +1,4 @@
-# red-magic-ball
+# My red magic ball
 
 **Project description**;
 
