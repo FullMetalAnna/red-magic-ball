@@ -10,7 +10,8 @@ I have tried to make it simple and fun. Some of the names (class) are strange be
 1. First place your name
 2. Place your question
  - Because if you don't, you won't get the answer.
- ![alert](https://user-images.githubusercontent.com/55837343/165810711-4f322276-0bdd-4949-94f6-926838047eee.png)
+
+![alert](https://user-images.githubusercontent.com/55837343/165810711-4f322276-0bdd-4949-94f6-926838047eee.png)
  
 
 4. And hit clikc! 
